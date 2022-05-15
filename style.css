@@ -1,15 +1,13 @@
 h2, h1{
-    color:rgb(235, 215, 209)
-    
+    color:rgb(235, 215, 209);
 }
 body{
     background-color: rgb(210, 178, 218);
     font-family: 'Courier New', Courier, monospace;
 }
 #cor{
-    background-color: rgb(226, 118, 17);
-    background: fixed;
-    width: 49%;
+    background-color: green;
+    width: 50%;
     text-align: justify;
     
     font-family: 'Courier New', Courier, monospace;
@@ -17,9 +15,14 @@ body{
 
 #nome{
     position: fixed;
+    background-color: green;
+    
+    
 }
 #habilidades{
-    border-radius: 
-    width: ;
-    margin-top: 2%;
+    
+
+}
+#imag{
+    
 }
