@@ -28,14 +28,19 @@ body{
     text-align:justify;
     line-height: 25px;
     border-radius: 5px; 
+    align-items: center;
 }
 #nome{
     background-color: rgb(118, 231, 118);
     color: black;
     width: 770px;
-    border-radius: 50px;
+    border-radius: 0px;
     position: fixed;
     top: 0px;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+
     z-index: 1;
 }
 #imag{
